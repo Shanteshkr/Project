@@ -8,3 +8,5 @@ Project file created
 --Line created from feature branch
 
 --Line created from feature1 branch
+
+--Line added from feature1 branch again
